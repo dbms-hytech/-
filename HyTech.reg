@@ -34,6 +34,6 @@ Windows Registry Editor Version 5.00
 "MSJET"="N"
 "FIXALL"="Y"
 "SN" = "tcpip:/10.27.0.36:13000"
-"PWD" = "Administrator2014"
+"PWD" = "PASSWORD"
 "UID" = "HTADMIN"
 "SRV" = "tcpip:/10.27.0.36:13000"
